@@ -1,0 +1,1 @@
+This is the core project which is used by ContactsApp.API project. This project contains models, services & interfaces required for ContactsApp. This project writes & read data from data.json file and return data to ContactsApp.API

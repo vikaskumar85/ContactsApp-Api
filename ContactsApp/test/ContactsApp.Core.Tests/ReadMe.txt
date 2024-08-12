@@ -1,0 +1,1 @@
+This is unit test project for ContactsApp.Core project. This project contains functions to test ContactsApp.Core services function.

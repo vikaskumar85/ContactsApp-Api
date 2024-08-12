@@ -1,0 +1,1 @@
+This is .NET Core Web Api project. This project fetches contacts from local data.json file. This project implements four main Apis: GetAll, Insert, Update & Delete contacts from data.json file. This project is using built-in feature of .NET Core for Dependency Injection & Error Handling. This project is using Swashbuckle.AspNetCore nuget for swagger.

@@ -1,0 +1,1 @@
+This is the main .NET Core Web Api project. This project implements four main Apis: GetAll, Insert, Update & Delete contacts from ContactsApp.Core project.

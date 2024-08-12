@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{19E32C1D-4B77-4BDA-A6D9-BBAC19DC5928}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{59525E27-6D69-4406-BC63-2230BCDEA263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsApp.API", "ContactsApp\src\ContactsApp.API\ContactsApp.API.csproj", "{83A13D5B-723C-4CE8-AF56-FBF9002C2BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsApp.Core", "ContactsApp\src\ContactsApp.Core\ContactsApp.Core.csproj", "{9C75189C-295D-49E8-A412-9E9778201339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsApp.Core.Tests", "ContactsApp\test\ContactsApp.Core.Tests\ContactsApp.Core.Tests.csproj", "{21BD1B8B-A342-4859-BA65-22307375F8A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsApp.API.Tests", "ContactsApp\test\ContactsApp.API.Tests\ContactsApp.API.Tests.csproj", "{A68467ED-BE4E-4901-BCE5-31048EDE5E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A13D5B-723C-4CE8-AF56-FBF9002C2BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A13D5B-723C-4CE8-AF56-FBF9002C2BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A13D5B-723C-4CE8-AF56-FBF9002C2BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A13D5B-723C-4CE8-AF56-FBF9002C2BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C75189C-295D-49E8-A412-9E9778201339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C75189C-295D-49E8-A412-9E9778201339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C75189C-295D-49E8-A412-9E9778201339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C75189C-295D-49E8-A412-9E9778201339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BD1B8B-A342-4859-BA65-22307375F8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BD1B8B-A342-4859-BA65-22307375F8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BD1B8B-A342-4859-BA65-22307375F8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BD1B8B-A342-4859-BA65-22307375F8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A68467ED-BE4E-4901-BCE5-31048EDE5E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68467ED-BE4E-4901-BCE5-31048EDE5E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68467ED-BE4E-4901-BCE5-31048EDE5E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68467ED-BE4E-4901-BCE5-31048EDE5E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83A13D5B-723C-4CE8-AF56-FBF9002C2BBA} = {19E32C1D-4B77-4BDA-A6D9-BBAC19DC5928}
+		{9C75189C-295D-49E8-A412-9E9778201339} = {19E32C1D-4B77-4BDA-A6D9-BBAC19DC5928}
+		{21BD1B8B-A342-4859-BA65-22307375F8A6} = {59525E27-6D69-4406-BC63-2230BCDEA263}
+		{A68467ED-BE4E-4901-BCE5-31048EDE5E3C} = {59525E27-6D69-4406-BC63-2230BCDEA263}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9768F7D6-0852-4456-8793-4EA49B9719EC}
+	EndGlobalSection
+EndGlobal

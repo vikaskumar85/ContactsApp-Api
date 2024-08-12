@@ -1,0 +1,12 @@
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\bin\Debug\net8.0\ContactsApp.Core.deps.json
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\bin\Debug\net8.0\ContactsApp.Core.dll
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\bin\Debug\net8.0\ContactsApp.Core.pdb
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\obj\Debug\net8.0\ContactsApp.Core.csproj.AssemblyReference.cache
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\obj\Debug\net8.0\ContactsApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\obj\Debug\net8.0\ContactsApp.Core.AssemblyInfoInputs.cache
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\obj\Debug\net8.0\ContactsApp.Core.AssemblyInfo.cs
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\obj\Debug\net8.0\ContactsApp.Core.csproj.CoreCompileInputs.cache
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\obj\Debug\net8.0\ContactsApp.Core.dll
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\obj\Debug\net8.0\refint\ContactsApp.Core.dll
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\obj\Debug\net8.0\ContactsApp.Core.pdb
+D:\CoreProject\ContactsApp\ContactsApp\ContactsApp\src\ContactsApp.Core\obj\Debug\net8.0\ref\ContactsApp.Core.dll
